@@ -4,6 +4,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
+cabecera
         System.out.println("Alquiler de vehículos v2.0");
 
         List<Vehiculo> flota = new ArrayList<>();
